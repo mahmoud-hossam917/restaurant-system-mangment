@@ -1,0 +1,13 @@
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\bin\Debug\resturant project.exe.config
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\bin\Debug\resturant project.exe
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\bin\Debug\resturant project.pdb
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant project.csprojAssemblyReference.cache
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.Form1.resources
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.Properties.Resources.resources
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant project.csproj.GenerateResource.cache
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant project.exe
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant project.pdb
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.Form2.resources
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.allproducts.resources
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.chooseproduct.resources
+D:\مذاكرة الولا حوده\محمود\resturant project\resturant project\obj\Debug\resturant_project.Register.resources

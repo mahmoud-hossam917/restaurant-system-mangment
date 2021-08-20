@@ -1,0 +1,7 @@
+15;coffe;15.69;0
+65;tea;8;0
+87;tea with milk;15;0
+852;hamburger;35;1
+47;Pepsi;20;3
+9;hot dog;16;1
+77;milk check;50;2
